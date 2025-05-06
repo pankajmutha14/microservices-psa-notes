@@ -20,7 +20,7 @@ Spring Boot provides all the necessary tools and integrations (e.g., REST APIs, 
 #####################################################
 A Service Registry is a central directory where all microservices register themselves so they can be discovered and communicate with each other without hardcoding IPs or URLs.
 
-In Spring Boot, the most common Service Registry is Eureka Server (from Netflix OSS).
+In Spring Boot, the most common Service Registry is Eureka Server (from Netflix OSS)..
 
 Note: 
 -> Eureka server runs by default on port 8761.
